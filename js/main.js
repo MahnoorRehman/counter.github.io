@@ -1,4 +1,4 @@
-const endDate = "21 December 2022 12:00 AM";
+const endDate = "21 December 2023 12:00 AM";
 
 document.getElementById("end-date").innerText = endDate;
 
